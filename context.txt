@@ -1,126 +1,86 @@
-Cover Letter “Lemi Gemedi 678-973-7066 | lemikind@gmail.com Corvallis, OR | www.linkedin.com/in/lemi-gemedi-4202023JAN51911
+MY RESUME "Lemi Gemedi
 
-October 27, 2025
-
-Dear Hiring Manager,
-
-I am writing to express my enthusiastic interest in engineering and computer science internship opportunities at [Insert Company Name]. As a driven and proactive Computer Electrical Engineering student at Oregon State University, minoring in Computer Science and Management, I am eager to apply my technical foundation and proven leadership skills to a challenging, hands-on role where I can contribute to innovative projects and continue to grow as an engineer.
-
-My academic coursework at OSU has provided me with a solid understanding of engineering principles and proficiency in languages and tools including C/C++, HTML, MATLAB, AutoCAD, LaTeX, and machine learning concepts. This technical knowledge is complemented by my unique quadrilingual fluency in English, Oromo, Amharic, and Spanish, which has cultivated strong cross-cultural communication and problem-solving abilities.
-
-Beyond the classroom, I have sought out experiences that build both technical and professional skills. My role as a Wafer Fab Operator at Intel provided me with hands-on experience in a highly regulated semiconductor production environment, where I managed end-to-end production cycles and performed quality control inspections. Concurrently, my leadership positions at Oregon State, such as being a Diversity Learning Assistant for over 400 residents and a Community Relations Representative for the Black Cultural Center, have sharpened my ability to lead, manage programs, and foster inclusive, supportive environments.
-
-I am confident that my technical aptitude, combined with my leadership experience and strong work ethic, would make me a valuable asset to your team. I am a quick learner, dedicated to excellence, and motivated to contribute meaningfully for a better future.
-
-Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss how my skills and enthusiasm align with your needs.
-
-Sincerely,
-
-Lemi Gemedi“
-
-
-
-MY RESUME “Lemi Gemedi
-
-Phone Number: 678-973-7066 | lemikind@gmail.com | Corvallis, OR | www.linkedin.com/in/lemi-gemedi-4202023JAN51911
+Phone Number: 678-973-7066 | lemikind@gmail.com | Corvallis, OR | www.linkedin.com/in/lemi-gemedi-4202023JAN51911 | github.com/lemisg
 
 
 
 EDUCATION
 
-
-
-
-
-Oregon State University, Corvallis, OR			                                              Expected June 2027
-
-Bachelor of Science in Computer Electrical Engineering. 
-
+Oregon State University, Corvallis, OR                                                              Expected Graduation: Early 2028
+Bachelor of Science in Electrical and Computer Engineering
 Minor in Management and Computer Science
+Relevant Coursework: ECE 310 - Semiconductor Processing (theory and practice of semiconductor processing techniques and process simulation)
 
 
 
 PROFICIENCIES
 
-
-
-
-
-Software: MATLAB, AutoCAD, LaTex, C/C++, Microsoft, MAC, Digital and Physical Research, Computer Proficiency (Proficient in MS Office Suite), Canva, Machine Learning
-
-Languages: English (Advanced), Oromo (Native), Amharic (Native), Spanish (intermediate)
+Software: MATLAB, AutoCAD, LaTeX, C/C++, Microsoft Office, macOS, Digital and Physical Research, Computer Proficiency (MS Office Suite), Canva, Machine Learning
+Languages: English (Advanced), Oromo (Native), Amharic (Native), Spanish (Intermediate)
 
 
 
 EXPERIENCE
 
+Multnomah County, Department of County Assets, Portland, OR                                                          2026 - Present
+IT Project Management Intern: Coordinated project schedules, tracked deliverables, and maintained documentation for county IT initiatives. Facilitated communication between technical staff and department stakeholders to gather system requirements.
 
+Intel (via Manpower), Beaverton, OR                                                                              Summers 2025 - Present
+Wafer Fab Operator: Operated semiconductor equipment and managed wafer handling while adhering to strict safety procedures. Oversaw the full production cycle, including dicing, final packaging, and shipping. Conducted quality control inspections and maintained production data to ensure operational efficiency.
 
-Oregon State University, University Housing and Dining, Corvallis, OR----------------------------------Sept 2024-Present
-
+Oregon State University, University Housing and Dining, Corvallis, OR                                     2024 - Present (during school year)
 Diversity Learning Assistant: Execute social justice education programming (dialogues, bulletin boards) for a diverse residential community. Create an inclusive and supportive environment for 400+ residents.
 
+Oregon State University, Lonnie B. Harris Black Cultural Center, Corvallis, OR                                              2024 - Present
+Community Relations Representative: Connect students to critical campus resources, including tutoring and academic support. Coordinate events and outreach for community programs (e.g., Black History Month), building relationships with student organizations and campus departments.
 
+Oregon State University, The Script Internship Program, Corvallis, OR                                                Oct 2025 - Present
+OSU Student Ambassador: Serve as the primary student ambassador for the Script Internship Program, executing on-campus outreach and recruitment strategies. Tasked with driving a minimum of 40 program applications from underrepresented communities. Manage monthly digital marketing campaigns on Instagram and LinkedIn.
 
-Oregon State University, Lonnie B. Harris Black Cultural Center, Corvallis, OR, ----------------------Sept 2024-Present
+Oregon State University, Corvallis, OR                                                                                      2024 - 2025
+Beaver Connect Peer Mentor: Helped incoming freshman students with their college adjustment and connected with engineering faculty and supervisors.
 
-Community Relations Representative: Connect students to critical campus resources, including tutoring and academic support. Coordinate events and outreach for community programs (e.g., Black History Month), building relationships with student organizations and campus departments. 
-
-
-
-Intel (Via manpower), Beaverton, OR, -----------------------------------------------------------------------------June-Sept 2025
-
-Wafer Fab Operator: Operated semiconductor equipment and managed wafer handling in a regulated environment, adhering to all procedures. Managed the end-to-end production cycle, from processing customer orders to wafer dicing to final packaging and shipping. Performed visual quality control inspections, maintained production data, and collaborated with the team to troubleshoot quality challenges.
-
-
-
-Oregon State University, Corvallis, OR, 	                                                              Sept 2024-June 2025
-
-Beaver Connect Peer Mentor: helped upcoming freshman students with their college adjustment and close with engineering professional faculty and my supervisors.
-
-
-
-Kirubeti Teen Home Care -----------------------------------------------------------------------------------June 2025 – Sept 2025
-
+Kirubeti Teen Home Care / Yilma Gamachu, Tame and Yilma LLC                                          2025 - Present (during school breaks)
 Caregiver: Assisted clients with anger management, emotional control, and daily living needs.
 
-
-
-THE HOME DEPOT INC., Beaverton, OR, ------------------------------------------ Intermittent school breaks 2022-2024
-
+The Home Depot, Inc., Beaverton, OR                                                                                2022 - 2024 (summers)
 Plumbing Sales Associate: Leveraged product knowledge and communication to engage customers with plumbing solutions and drive sales in a fast-paced retail environment.
 
-
-
-Yilma Gamachu, Tame And Yilma LLC ------------------------------------------------------------------------------- 2022–2023
-
-Caregiver, Elderly Homecare (hospice): Build strong relationships with clients. Supported daily living and emotional support needs.
+Yilma Gamachu, Tame and Yilma LLC                                                                                            2022 - 2023
+Caregiver, Elderly Homecare (Hospice): Built strong relationships with clients. Supported daily living and emotional support needs.
 
 
 
 COMMUNITY SERVICE & LEADERSHIP
 
+Oregon Hood to Coast - Volunteer Exchange Leader: Led and managed a team of over 30 volunteers at a major race checkpoint; coordinated on-site logistics and safety protocols.
+Kappa Alpha Psi Fraternity Inc. - Community Outreach Volunteer: Coordinated the annual "Shop with Kappas" event, a sponsored shopping spree for underprivileged children.
+Kappa Alpha Psi Fraternity Inc. - Literacy Volunteer: Partnered with a local elementary school to read to children and promote early literacy.
+Kappa Alpha Psi Fraternity Inc. - Community Service Volunteer: Participated in a fraternity-led program addressing food insecurity; prepared and served meals to the local homeless population.
+OSU National Society of Black Engineers (NSBE): Board Member
+Kappa Alpha Psi Fraternity Inc.: Vice President
+East African Student Association (EASA): Community Relations Officer
+African Student Association (ASA): Community Relations Officer
+OSU Global Formula Racing Team: Member
 
 
 
+CERTIFICATIONS
+
+ISSA Certified Personal Trainer (CPT)
+ISSA Strength & Conditioning Specialist
+ISSA Nutrition Coach
+ISSA Business of Personal Training
+CPR/AED Certification
+First Aid Certificate
+Pre-Service Dementia Care Training for Direct Care Staff
+Direct Support Professional (DSP) Core Competencies, Tier 1 & 2
+Oregon Intervention System (OIS) Training
+Kognito Certificate"
 
 
 
-Oregon Hood to Coast Exchange Leader
-
-OSU National Society of Black Engineers: Member, 
-
-East African Student Association: Community Relations Office
-
-Kappa Alpha Psi Fraternity Inc.: Vice President“
-
-
-
-
-
-
-
-My CV “Lemi Gemedi
+My CV "Lemi Gemedi
 
 Phone Number: 678-973-7066 | lemikind@gmail.com | Corvallis, OR | www.linkedin.com/in/lemi-gemedi-4202023JAN51911
 
@@ -128,272 +88,127 @@ Phone Number: 678-973-7066 | lemikind@gmail.com | Corvallis, OR | www.linkedin.c
 
 PROFESSIONAL SUMMARY
 
-Quadrilingual computer electrical engineering student with a minor in computer science, driven to be the first college graduate in the family. Seeking to leverage a strong technical foundation in C++ and HTML, proven leadership, and cross-cultural communication skills to contribute to innovative engineering projects in an engineering internship or academic research role. Successfully managed complex logistics, fostered inclusive community environments, and provided high-level consultative sales support.
+Quadrilingual computer electrical engineering student with a minor in computer science, and hands-on experience in IT project management and semiconductor processing, driven to be the first college graduate in the family. Seeking to leverage a strong technical foundation in C++, HTML, and semiconductor process fundamentals, proven project coordination and leadership skills, and cross-cultural communication to contribute to innovative engineering projects in an engineering internship or academic research role. Successfully managed complex logistics, coordinated IT project deliverables, fostered inclusive community environments, and provided high-level consultative sales support.
 
 
 
 EDUCATION
 
-
-
-
-
 OREGON STATE UNIVERSITY | Corvallis, OR
-
 B.S. in Computer Electrical Engineering | Expected Graduation: June 2027
-
 Minor in Management and Computer Science
+Relevant Coursework: ECE 310 - Semiconductor Processing (theory and practice of semiconductor processing techniques and process simulation)
 
 TECHNICAL SKILLS
 
-
-
-
-
 Programming: C++, HTML
-
-Tools/Concepts: Digital and Physical Research, Computer Proficiency (Proficient in MS Office Suite), Canva
-
-
+Tools/Concepts: Project Coordination, Semiconductor Process Simulation, Digital and Physical Research, Computer Proficiency (Proficient in MS Office Suite), Canva
 
 LANGUAGES
-
-
-
-
 
 Quadrilingual Fluency: Oromo (Native), Amharic (Native), English (Advanced), Spanish (Intermediate)
 
 
 
-
-
 EXPERIENCE & LEADERSHIP
 
-
-
-
+IT Project Management Intern
+Multnomah County, Department of County Assets | Portland, OR | 2026 - Present
+Coordinated project schedules, tracked deliverables, and maintained documentation for county IT initiatives. Facilitated communication between technical staff and department stakeholders to gather system requirements and align project scope. Supported planning and status reporting for multiple concurrent IT projects within a government agency setting.
 
 Wafer Fab Operator
-
-Intel (manpower) | Beaverton, OR | June 2025 – September 2025
-
-Operated specialized semiconductor production equipment according to manufacturing priorities in a highly regulated cleanroom environment.
-
-Managed the end-to-end production cycle, including processing customer orders, performing wafer dicing (cutting), and executing final packaging and shipping logistics for finished integrated circuits.
-
-Conducted visual quality control inspections and performed accurate data entry to track production progress and maintain quality standards.
-
-Managed the safe transport and handling of silicon wafer lots, strictly following all cleanroom, chemical, and wafer handling procedures.
-
-Collaborated with the production team to troubleshoot and resolve quality challenges, ensuring operational efficiency and productivity.
-
-
+Intel (via Manpower) | Beaverton, OR | June 2025 - September 2025
+Operated specialized semiconductor production equipment according to manufacturing priorities in a highly regulated cleanroom environment. Managed the end-to-end production cycle, including processing customer orders, performing wafer dicing (cutting), and executing final packaging and shipping logistics for finished integrated circuits. Conducted visual quality control inspections and performed accurate data entry to track production progress and maintain quality standards. Managed the safe transport and handling of silicon wafer lots, strictly following all cleanroom, chemical, and wafer handling procedures. Collaborated with the production team to troubleshoot and resolve quality challenges, ensuring operational efficiency and productivity.
 
 OSU Student Ambassador for The Script
-
-
-
-Oregon State University,  | Corvallis, OR | Oct 2025 – Present
-
-Served as the primary student ambassador for the Script Internship Program at Oregon State University, executing on-campus outreach and recruitment strategies.
-
-Tasked with driving a minimum of 40 program applications from underrepresented communities by building relationships with faculty, career services, and student groups.
-
-Managed monthly digital marketing campaigns on Instagram and LinkedIn to amplify program visibility and support recruitment events.
-
-
-
-
+Oregon State University | Corvallis, OR | Oct 2025 - Present
+Served as the primary student ambassador for the Script Internship Program at Oregon State University, executing on-campus outreach and recruitment strategies. Tasked with driving a minimum of 40 program applications from underrepresented communities by building relationships with faculty, career services, and student groups. Managed monthly digital marketing campaigns on Instagram and LinkedIn to amplify program visibility and support recruitment events.
 
 Diversity Learning Assistant
-
-
-
-
-
-Oregon State University, UHDS | Corvallis, OR | 2024 – Present
-
-Executed social justice education programming (dialogues, bulletin boards, hall engagement) for a diverse residential community, directly fostering an inclusive and supportive environment for 400+ residents.
-
-Served as a key university ambassador, strategically connecting residents to essential campus resources, including academic advising and mental health services.
-
-Collaborated consistently with the Assistant Director and hall staff to maintain community standards and promote social equity initiatives.
-
-
+Oregon State University, UHDS | Corvallis, OR | 2024 - Present
+Executed social justice education programming (dialogues, bulletin boards, hall engagement) for a diverse residential community, directly fostering an inclusive and supportive environment for 400+ residents. Served as a key university ambassador, strategically connecting residents to essential campus resources, including academic advising and mental health services. Collaborated consistently with the Assistant Director and hall staff to maintain community standards and promote social equity initiatives.
 
 Community Relation Rep (CRR)
-
-
-
-
-
-Lonnie B. Harris Black Cultural Center | Corvallis, OR | 2024 – Present
-
-Directly connected peers to critical campus resources (e.g., Academic Success Center, tutoring services) to support student experience and academic retention.
-
-Executed logistical and outreach efforts for community-specific and collaborative programming, including history and heritage month celebrations.
-
-Managed daily center operations, including resource material organization and maintaining a welcoming and inclusive physical space.
-
-Acted as a representative of the Cultural Resource Center, building relationships with student organizations and campus departments.
-
-
-
-Kirubeti Teen Home Care | June 2025 – Present (during school Break)
-
-
-
-
-
-Assisted clients with anger management and emotional control.
-
-Assisted clients with daily living needs to maintain self-esteem and general wellness, and built strong relationships with them to provide emotional support and companionship.
-
-
-
-Plumbing Sales Associate
-
-
-
-
-
-
-
-THE HOME DEPOT, INC. | Beaverton, OR | 2022–2024
-
-Engaged proactively with contractors, builders, and professional plumbers to promote business opportunities and resolve complex inquiries, successfully driving departmental sales.
-
-Provided expert product consultation for a wide range of plumbing tools and materials, ensuring accurate and efficient selection for customer projects.
-
-Developed strong sales presentation and communication skills in a high-volume retail environment.
+Lonnie B. Harris Black Cultural Center | Corvallis, OR | 2024 - Present
+Directly connected peers to critical campus resources (e.g., Academic Success Center, tutoring services) to support student experience and academic retention. Executed logistical and outreach efforts for community-specific and collaborative programming, including history and heritage month celebrations. Managed daily center operations, including resource material organization and maintaining a welcoming and inclusive physical space. Acted as a representative of the Cultural Resource Center, building relationships with student organizations and campus departments.
 
 Caregiver
+Kirubeti Teen Home Care | Beaverton, OR | June 2025 - Present (during school breaks)
+Assisted clients with anger management and emotional control. Assisted clients with daily living needs to maintain self-esteem and general wellness, and built strong relationships with them to provide emotional support and companionship.
 
+Plumbing Sales Associate
+The Home Depot, Inc. | Beaverton, OR | 2022-2024
+Engaged proactively with contractors, builders, and professional plumbers to promote business opportunities and resolve complex inquiries, successfully driving departmental sales. Provided expert product consultation for a wide range of plumbing tools and materials, ensuring accurate and efficient selection for customer projects. Developed strong sales presentation and communication skills in a high-volume retail environment.
 
-
-
-
-Yilma Gamachu | Tame And Yilma LLC | 2022–2023
-
-Elderly Homecare (hospice): Assisted clients in hospice with daily living needs to maintain self-esteem and general wellness, and built strong relationships with them to deliver emotional support and companionship.
+Caregiver, Elderly Homecare (Hospice)
+Yilma Gamachu | Tame and Yilma LLC | 2022-2023
+Assisted clients in hospice with daily living needs to maintain self-esteem and general wellness, and built strong relationships with them to deliver emotional support and companionship.
 
 
 
 COMMUNITY SERVICE
 
+Volunteer Exchange Leader - Oregon Hood to Coast
+Led and managed a team of over 30 volunteers, delegating tasks to ensure the efficient operation of a major race checkpoint. Coordinated all on-site logistics, including the setup and breakdown of the exchange point, equipment management, and vehicle parking control. Enforced all race rules and safety protocols, managing participant flow in the exchange zone and ensuring proper use of safety equipment to maintain a secure environment. Served as the primary point of contact for volunteers and the on-site lead for emergencies, following established procedures to communicate with Race Control.
+
+Community Outreach Volunteer - Kappa Alpha Psi Fraternity Inc.
+Coordinated and participated in the annual "Shop with Kappas" community event, providing a sponsored shopping spree for underprivileged children. Mentored and guided youth during the event, fostering a positive experience while helping them select clothing and essential school supplies. Engaged in direct community service to support local families and provide a meaningful, positive impact for children in the community.
+
+Literacy Volunteer - Kappa Alpha Psi Fraternity Inc.
+Partnered with a local elementary school through my fraternity to read to children, helping to promote early childhood literacy and a love for reading. Served as a positive role model and mentor for young students in the community. Paid student peer mentor for incoming freshman students through Beaver Connect (2024-25).
+
+Community Service Volunteer - Kappa Alpha Psi Fraternity Inc.
+Actively participated in a fraternity-led program to address food insecurity within the community. Prepared and served meals to the local homeless population, providing essential support to vulnerable individuals.
 
 
-Oregon Hood to Coast Exchange Leader:
-
-
-
-
-
-Volunteer Exchange Leader
-
-Led and managed a team of over 30 volunteers, delegating tasks to ensure the efficient operation of a major race checkpoint.
-
-Coordinated all on-site logistics, including the setup and breakdown of the exchange point, equipment management, and vehicle parking control.
-
-Enforced all race rules and safety protocols, managing participant flow in the exchange zone and ensuring proper use of safety equipment to maintain a secure environment.
-
-Served as the primary point of contact for volunteers and the on-site lead for emergencies, following established procedures to communicate with Race Control.
-
-Community Outreach Volunteer
-
-
-
-
-
-Coordinated and participated in the annual "Shop with Kappas" community event, providing a sponsored shopping spree for underprivileged children.
-
-Mentored and guided youth during the event, fostering a positive experience while helping them select clothing and essential school supplies.
-
-Engaged in direct community service to support local families and provide a meaningful, positive impact for children in the community.
-
-Literacy Volunteer
-
-
-
-
-
-Partnered with a local elementary school through my fraternity to read to children, helping to promote early childhood literacy and a love for reading.
-
-Served as a positive role model and mentor for young students in the community.
-
-Paid Student peer mentor for the upcoming freshman students through Beaver Connect (2024-25)
-
-Community Service Volunteer
-
-
-
-
-
-Actively participated in a fraternity-led program to address food insecurity within the community.
-
-Prepared and served meals to the local homeless population, providing essential support to vulnerable individuals.
 
 UNIVERSITY INVOLVEMENT & ACTIVITIES
 
-
-
-
-
 OSU National Society of Black Engineers (NSBE): Board Member
-
 Kappa Alpha Psi Fraternity Inc.: Vice President
-
 East African Student Association (EASA): Community Relations Officer
-
 African Student Association (ASA): Community Relations Officer
-
 OSU Global Formula Racing Team: Member
-
-
 
 
 
 CERTIFICATIONS
 
+ISSA Certified Personal Trainer (CPT)
+ISSA Strength & Conditioning Specialist
+ISSA Nutrition Coach
+ISSA Business of Personal Training
+CPR/AED Certification
 First Aid Certificate
-
 Pre-Service Dementia Care Training for Direct Care Staff
-
 Kognito Certificate
-
-Oregon Intervention System training (IOS)“
-
-
-
-Notes about me: 
-
-Major in ECE and go into management side of profession… Electrical Engineering…How does that play out? And what would an employer want from him to get into management.
-
-Leadership
-
-Budget Management
-
-Juggling priorities
+Oregon Intervention System (OIS) Training
+Direct Support Professional (DSP) Core Competencies - Tier 1 Program"
 
 
 
-Get grades where he wants them to be this term— 
+PROJECTS
 
-In general, it has fallen below 3.0 and wants to get above that. 
+Personal Portfolio AI: This website. A full-stack application featuring an HTML/JS frontend and a Python (Flask) backend. The backend serves the site and provides a chat API that uses Google's Gemini model, "trained" with Lemi's personal resume and CV.
+C++ AI Assistant: A command-line application built in C++ that connects to the Google Gemini API. It handles user input, makes secure web requests with libcurl, and parses JSON responses to create an interactive chat loop.
+Semiconductor & Device Fab: Fabricated NMOS transistors and MOS capacitors from raw silicon wafers in a cleanroom. Managed thin-film deposition (wet/dry SiO2, Al metallization) and four-layer photolithographic masking.
+Hunt the Wumpus: A grid-based adventure game using polymorphism and inheritance to manage interactive hazards and game events.
+Connect Four: A terminal-based game for human-versus-computer play, featuring logic for alternating turns and win-condition detection.
 
-Currently has 2 jobs on campus.
 
-Diversity Learning Assistant—Like an RA, he makes sure everyone is welcome and does workshop on social issues, self-care, and mental health; 3 events; manages budget; bulletin boards; and office hours. 
 
-Beaver Black Cultural Center—15 hours/week. 
+Notes about me:
 
-VP of Fraternity - 
+Major in ECE and interested in moving into the management side of engineering. Interested in what employers look for to move into engineering management: leadership, budget management, juggling priorities.
 
-Clubs
+Currently balancing multiple on-campus jobs and leadership roles alongside coursework:
+- Diversity Learning Assistant: like an RA, makes sure everyone is welcome and runs workshops on social issues, self-care, and mental health; manages a budget; maintains bulletin boards and holds office hours.
+- Community Relations Representative, Black Cultural Center: ~15 hours/week.
+- Vice President of Kappa Alpha Psi Fraternity Inc.
+- Member of the National Society of Black Engineers and the Global Formula Racing Team.
 
-National Society of Black Engineers - 
+Recently gained an IT Project Management internship with Multnomah County, coordinating IT project schedules and stakeholder communication - a step toward the engineering management path.
 
-Global Formula Racing - member but 
+Completed ISSA (International Sports Sciences Association) certifications in Personal Training, Strength & Conditioning, Nutrition Coaching, and the Business of Personal Training, plus CPR/AED - reflecting a long-standing personal interest in fitness and coaching alongside engineering.
 
-Other student clubs that happen during student hours
+Took ECE 310 - Semiconductor Processing, a 4-credit OSU course covering the theory and practice of semiconductor processing techniques and process simulation, which directly builds on his hands-on Wafer Fab Operator experience at Intel and the Semiconductor & Device Fab project.
