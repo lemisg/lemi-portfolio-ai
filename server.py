@@ -35,13 +35,13 @@ If the answer is not in the context, politely say "I do not have that informatio
 """
 
 # --- 4. Create the Gemini model once at startup ---
-# Using gemini-2.0-flash rather than 2.5-flash: 2.5-flash has "thinking" enabled by
-# default with no way to disable it in this (deprecated) SDK, which was causing
-# replies to take anywhere from ~10s to over a minute. 2.0-flash has no thinking
-# step and responds in ~1-2s, which is what a grounded Q&A chatbot like this needs.
-# The system prompt is passed once via system_instruction instead of being replayed
-# as a fake user/model turn on every request.
-model = genai.GenerativeModel('models/gemini-2.0-flash', system_instruction=SYSTEM_PROMPT) if GEMINI_API_KEY else None
+# gemini-2.5-flash has "thinking" enabled by default with no way to disable it in
+# this (deprecated) SDK, which was causing replies to take anywhere from ~10s to
+# over a minute. gemini-3.6-flash is the current fast, non-thinking-by-default
+# model (gemini-2.0-flash, tried first, has since been retired by Google).
+# The system prompt is passed once via system_instruction instead of being
+# replayed as a fake user/model turn on every request.
+model = genai.GenerativeModel('models/gemini-3.6-flash', system_instruction=SYSTEM_PROMPT) if GEMINI_API_KEY else None
 
 # --- 5. Create the Web Endpoints ---
 @app.route('/')
