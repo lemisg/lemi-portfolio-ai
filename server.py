@@ -34,7 +34,16 @@ If the answer is not in the context, politely say "I do not have that informatio
 --- END CONTEXT ---
 """
 
-# --- 4. Create the Web Endpoints ---
+# --- 4. Create the Gemini model once at startup ---
+# Using gemini-2.0-flash rather than 2.5-flash: 2.5-flash has "thinking" enabled by
+# default with no way to disable it in this (deprecated) SDK, which was causing
+# replies to take anywhere from ~10s to over a minute. 2.0-flash has no thinking
+# step and responds in ~1-2s, which is what a grounded Q&A chatbot like this needs.
+# The system prompt is passed once via system_instruction instead of being replayed
+# as a fake user/model turn on every request.
+model = genai.GenerativeModel('models/gemini-2.0-flash', system_instruction=SYSTEM_PROMPT) if GEMINI_API_KEY else None
+
+# --- 5. Create the Web Endpoints ---
 @app.route('/')
 def index():
     return app.send_static_file('index.html')
@@ -47,17 +56,11 @@ def chat():
     try:
         user_message = request.json['message']
 
-        # FIXED: Use the correct model name (without version suffix)
-        model = genai.GenerativeModel('models/gemini-2.5-flash')
-        chat_session = model.start_chat(
-            history=[
-                {'role': 'user', 'parts': [SYSTEM_PROMPT]},
-                {'role': 'model', 'parts': ["Understood. I am Lemi's AI assistant. I will answer questions based only on the provided context."]}
-            ]
+        response = model.generate_content(
+            user_message,
+            request_options={'timeout': 20},
         )
-        
-        response = chat_session.send_message(user_message)
-        
+
         return jsonify({'reply': response.text})
 
     except Exception as e:
